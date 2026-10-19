@@ -13,6 +13,7 @@ devops-automation-toolkit/
 ├── scripts/             # Utility and automation scripts
 └── README.md            # Project documentation
 
+```
 
-👨‍💻 Author
+## 👨‍💻 Author
 Built by Aflal as part of my DevOps learning journey.
